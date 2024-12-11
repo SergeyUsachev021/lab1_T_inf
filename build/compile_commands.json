@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/SerGO/Desktop/T-inf/lab1_T_inf/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\lab.dir\\main.cpp.obj -c C:\\Users\\SerGO\\Desktop\\T-inf\\lab1_T_inf\\main.cpp",
+  "file": "C:\\Users\\SerGO\\Desktop\\T-inf\\lab1_T_inf\\main.cpp",
+  "output": "CMakeFiles\\lab.dir\\main.cpp.obj"
+}
+]

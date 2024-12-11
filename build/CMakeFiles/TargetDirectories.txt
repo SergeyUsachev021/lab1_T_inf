@@ -1,0 +1,3 @@
+C:/Users/SerGO/Desktop/T-inf/lab1_T_inf/build/CMakeFiles/lab.dir
+C:/Users/SerGO/Desktop/T-inf/lab1_T_inf/build/CMakeFiles/edit_cache.dir
+C:/Users/SerGO/Desktop/T-inf/lab1_T_inf/build/CMakeFiles/rebuild_cache.dir
