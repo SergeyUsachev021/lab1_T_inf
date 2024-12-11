@@ -110,13 +110,13 @@ int main() {
     }
 
     double entropyNum = entropy(symbolProbabilities);
-    std::cout << "entropy = " << entropyNum << "\n";
+    std::cout << "энтропия = " << entropyNum << "\n";
 
     double averageLengthCodeCombination = averageLengthCombination(symbolProbabilities, huffmanCodes);
-    std::cout << "average lenght code combination = " << averageLengthCodeCombination << "\n";
+    std::cout << "кодовая комбинация средней длины = " << averageLengthCodeCombination << "\n";
 
     double redundancy = averageLengthCodeCombination - entropyNum;
-    std::cout << "redundancy = " << redundancy;
+    std::cout << "избыточность = " << redundancy;
 
     deleteTree(root); // Освобождаем память
 

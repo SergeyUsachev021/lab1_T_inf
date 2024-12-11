@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/SerGO/Desktop/T-inf/lab1_T_inf
+# Install script for directory: C:/Users/SerGO/Desktop/lab1_T_inf
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/SerGO/Desktop/T-inf/lab1_T_inf/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/SerGO/Desktop/lab1_T_inf/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/SerGO/Desktop/T-inf/lab1_T_inf/build"
+			"value" : "c:/Users/SerGO/Desktop/lab1_T_inf/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -559,7 +559,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/SerGO/Desktop/T-inf/lab1_T_inf/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/SerGO/Desktop/lab1_T_inf/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -631,7 +631,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/SerGO/Desktop/T-inf/lab1_T_inf"
+			"value" : "C:/Users/SerGO/Desktop/lab1_T_inf"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1339,7 +1339,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/SerGO/Desktop/T-inf/lab1_T_inf/build"
+			"value" : "C:/Users/SerGO/Desktop/lab1_T_inf/build"
 		},
 		{
 			"name" : "lab_IS_TOP_LEVEL",
@@ -1363,7 +1363,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/SerGO/Desktop/T-inf/lab1_T_inf"
+			"value" : "C:/Users/SerGO/Desktop/lab1_T_inf"
 		}
 	],
 	"kind" : "cache",
