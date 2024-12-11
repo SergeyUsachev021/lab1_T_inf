@@ -61,7 +61,7 @@ void generateCodes(Node* root, const std::string& str, std::vector<std::string>&
     generateCodes(root->right, str + "1", codes); // Правый потомок
 }
 
-// Функция для освобождения памяти дерева
+// Функция для освобождения памяти дерева w
 void deleteTree(Node* root) {
     if (root != nullptr) {
         deleteTree(root->left);
